@@ -1,0 +1,80 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "io.github.malteas.rosetta",
+    "module": "rosetta-neoforge",
+    "version": "0.1.1+1.21.3",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.4.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "rosetta-neoforge-0.1.1+1.21.3.jar",
+          "url": "rosetta-neoforge-0.1.1+1.21.3.jar",
+          "size": 6098843,
+          "sha512": "ef8ad9c8224f377e96143ac491af0c3a377ac07c27bbe4bb7334271893a7faab6ed1c01ef52a81db23895f5b8b4483dcbc3512724ec908ad2847c034e3f914d6",
+          "sha256": "8744ea8566910fbbc5cb0003bbc08fd196d6c519c4bac76acf1074e668911d0b",
+          "sha1": "d4806e82eacdcfdbf68fc556595162bcca433343",
+          "md5": "640cd14b9884a49a65853ed63fc12ea5"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "rosetta-neoforge-0.1.1+1.21.3.jar",
+          "url": "rosetta-neoforge-0.1.1+1.21.3.jar",
+          "size": 6098843,
+          "sha512": "ef8ad9c8224f377e96143ac491af0c3a377ac07c27bbe4bb7334271893a7faab6ed1c01ef52a81db23895f5b8b4483dcbc3512724ec908ad2847c034e3f914d6",
+          "sha256": "8744ea8566910fbbc5cb0003bbc08fd196d6c519c4bac76acf1074e668911d0b",
+          "sha1": "d4806e82eacdcfdbf68fc556595162bcca433343",
+          "md5": "640cd14b9884a49a65853ed63fc12ea5"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "rosetta-neoforge-0.1.1+1.21.3-sources.jar",
+          "url": "rosetta-neoforge-0.1.1+1.21.3-sources.jar",
+          "size": 6076165,
+          "sha512": "cba9c0a6dbf268e8f58d28b43b3500e43b48a7166fdd14b4f784fd547379e82e464a4d0763210a66680dcefe294ff035c4c52796b2cb1400d00645f66958ffd8",
+          "sha256": "d54f87c083697d7d8f3367480f60c37d9b091e35b8e20ee8ec89e598083eb4f1",
+          "sha1": "becee886a5508adf607ac1e8c13d3e15c6a1f067",
+          "md5": "4f300e0164d3fb1ae7f08e9e1975e39f"
+        }
+      ]
+    }
+  ]
+}
