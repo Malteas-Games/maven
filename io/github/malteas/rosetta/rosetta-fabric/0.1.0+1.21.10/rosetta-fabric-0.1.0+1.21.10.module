@@ -1,0 +1,96 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "io.github.malteas.rosetta",
+    "module": "rosetta-fabric",
+    "version": "0.1.0+1.21.10",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.4.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "rosetta-fabric-0.1.0+1.21.10.jar",
+          "url": "rosetta-fabric-0.1.0+1.21.10.jar",
+          "size": 6098911,
+          "sha512": "e180b17686ca07a84c322e3c13899acf4dbded967f40e70138ad5f58bf3e62c3bb925fe8473c9e196b29703c1f99a00c3b14e583b1bf475314999211c3838f33",
+          "sha256": "daaba942ca1e5cb655b7d33488225408fb5b077d85a06b29868c157839f2332e",
+          "sha1": "b52eb4ec83ad3055221ef078b2b54f376b8a8e5d",
+          "md5": "b9875a08684c5e0a84b450b2546726eb"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "net.fabricmc",
+          "module": "fabric-loader",
+          "version": {
+            "requires": "0.18.4"
+          }
+        },
+        {
+          "group": "net.fabricmc.fabric-api",
+          "module": "fabric-api",
+          "version": {
+            "requires": "0.138.4+1.21.10"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "rosetta-fabric-0.1.0+1.21.10.jar",
+          "url": "rosetta-fabric-0.1.0+1.21.10.jar",
+          "size": 6098911,
+          "sha512": "e180b17686ca07a84c322e3c13899acf4dbded967f40e70138ad5f58bf3e62c3bb925fe8473c9e196b29703c1f99a00c3b14e583b1bf475314999211c3838f33",
+          "sha256": "daaba942ca1e5cb655b7d33488225408fb5b077d85a06b29868c157839f2332e",
+          "sha1": "b52eb4ec83ad3055221ef078b2b54f376b8a8e5d",
+          "md5": "b9875a08684c5e0a84b450b2546726eb"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "rosetta-fabric-0.1.0+1.21.10-sources.jar",
+          "url": "rosetta-fabric-0.1.0+1.21.10-sources.jar",
+          "size": 6076533,
+          "sha512": "5de8f9cf5456896767e273bbc8395b9d5a3ee24aa54c8eb1ed2b4a686d6fb93d3cfdb32ffd9128e6be916499a86f379a529b3bd2656f5e27f0c15e4e2d827de8",
+          "sha256": "a80918827f428acee49062c844fee05207b72184c9b354649625e1745befe6a9",
+          "sha1": "903878a8945c0d18649ad1261d4daf6adfcb84ad",
+          "md5": "9055fda4c5d5b40c2fa29165ee6961cd"
+        }
+      ]
+    }
+  ]
+}
