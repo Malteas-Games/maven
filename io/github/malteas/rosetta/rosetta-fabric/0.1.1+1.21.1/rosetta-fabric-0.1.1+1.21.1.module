@@ -27,11 +27,11 @@
         {
           "name": "rosetta-fabric-0.1.1+1.21.1.jar",
           "url": "rosetta-fabric-0.1.1+1.21.1.jar",
-          "size": 6098762,
-          "sha512": "eca206c615f41626ab9ad2af26d1b4aa6ba4a2fdbaf4de4b7fc56ea306bb9706f6daec55d8650d6f4154715a7cb04aed8612e624dbcad0934d91a6afea5ece0a",
-          "sha256": "11feda1985330c06e651971e5a4c153ac4f094f2075011bca739cc3532edc4e6",
-          "sha1": "2ce69ee0a61a541e00bbaab9aa0eafea4c05c964",
-          "md5": "6fd82d636b61f32fe0f55df19374593b"
+          "size": 44418,
+          "sha512": "25b98196aa73d2bd5212fbb47a8e4d00a47d8882ee05c53b71661f526d8768c38b8ce2cca2ae986cde3fb60532d44545fc240427896528507ecd31791a3acb56",
+          "sha256": "5b1dfe94bc2a3ca68382d51092d9af33dae2cdbf3047594314bea501a633b0c7",
+          "sha1": "a3e45a9232212616d690fe79fd9aa34544a36716",
+          "md5": "572bab9a859e07221d5bb5fd29846115"
         }
       ]
     },
@@ -64,11 +64,11 @@
         {
           "name": "rosetta-fabric-0.1.1+1.21.1.jar",
           "url": "rosetta-fabric-0.1.1+1.21.1.jar",
-          "size": 6098762,
-          "sha512": "eca206c615f41626ab9ad2af26d1b4aa6ba4a2fdbaf4de4b7fc56ea306bb9706f6daec55d8650d6f4154715a7cb04aed8612e624dbcad0934d91a6afea5ece0a",
-          "sha256": "11feda1985330c06e651971e5a4c153ac4f094f2075011bca739cc3532edc4e6",
-          "sha1": "2ce69ee0a61a541e00bbaab9aa0eafea4c05c964",
-          "md5": "6fd82d636b61f32fe0f55df19374593b"
+          "size": 44418,
+          "sha512": "25b98196aa73d2bd5212fbb47a8e4d00a47d8882ee05c53b71661f526d8768c38b8ce2cca2ae986cde3fb60532d44545fc240427896528507ecd31791a3acb56",
+          "sha256": "5b1dfe94bc2a3ca68382d51092d9af33dae2cdbf3047594314bea501a633b0c7",
+          "sha1": "a3e45a9232212616d690fe79fd9aa34544a36716",
+          "md5": "572bab9a859e07221d5bb5fd29846115"
         }
       ]
     },
@@ -84,11 +84,11 @@
         {
           "name": "rosetta-fabric-0.1.1+1.21.1-sources.jar",
           "url": "rosetta-fabric-0.1.1+1.21.1-sources.jar",
-          "size": 6076546,
-          "sha512": "e9c51d608625d69e7c979a5abaf77e19cd14e0dbc29807393cd3a13ebfb7b666e953419aaee696c9b53b373844ff43be18ffb6c7842a7804b6dead300adf2abe",
-          "sha256": "22775dc7b82a43475aa97ef9ff53f7bf9385ad3405827bb167e0b3553627740c",
-          "sha1": "ac542f74b0f9b6c8fd2cc67a17df9e47a3095a0b",
-          "md5": "7cdba51bc9df7c4d6c45af5563fcfddf"
+          "size": 25388,
+          "sha512": "e67145f47d2c89e847d4bec65fa5652e2a74fdd90dd6c845b5fc4a34a91173aa03fdb73fbfbad3127fac88886f4c5c67735add2bf954c34adccdb3e250e03786",
+          "sha256": "61985e9e4ec5862a6c90d1456f243ea1a3f3dcb35fd4c773050ad22d75a26f57",
+          "sha1": "15c0906acd307e0a34041cc852796a03521091bd",
+          "md5": "9bee9209b676cd984c3c879178142bfe"
         }
       ]
     }

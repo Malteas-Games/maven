@@ -27,11 +27,11 @@
         {
           "name": "rosetta-neoforge-0.1.1+1.21.11.jar",
           "url": "rosetta-neoforge-0.1.1+1.21.11.jar",
-          "size": 6098453,
-          "sha512": "de5e64be0b314a864e366420b42f5196a998b3fd6f996cd924f2674f69a9d3d9a74b361575163a37281e84817847d91cc28ab79891040a0bc5ddb634d5fa52c8",
-          "sha256": "69e02ae83190bef92360c2640dc1e93a727fac7799e32213748b907e877913f6",
-          "sha1": "3e8b7dcad31b03687319d52d69ec1f3d80ff10b2",
-          "md5": "721836d414c0c554aa1034fb853c2160"
+          "size": 49863,
+          "sha512": "81c381faadfe51c2ef55c339424421185f92a69d90e1742f389e1c6c614c460335333b1d51e59342f485982c54e0ae4f1142ebe3eac81f24ff03e5fb8bcaf1cd",
+          "sha256": "15fda46107e47dd0bc36d7f77b9f20d145d66d319668ccb036e06447edc82a2b",
+          "sha1": "ff688c051134a34c0f670dd8a7e4a267a8238927",
+          "md5": "81a271014b57cc9ae9b944262b1763b9"
         }
       ]
     },
@@ -48,11 +48,11 @@
         {
           "name": "rosetta-neoforge-0.1.1+1.21.11.jar",
           "url": "rosetta-neoforge-0.1.1+1.21.11.jar",
-          "size": 6098453,
-          "sha512": "de5e64be0b314a864e366420b42f5196a998b3fd6f996cd924f2674f69a9d3d9a74b361575163a37281e84817847d91cc28ab79891040a0bc5ddb634d5fa52c8",
-          "sha256": "69e02ae83190bef92360c2640dc1e93a727fac7799e32213748b907e877913f6",
-          "sha1": "3e8b7dcad31b03687319d52d69ec1f3d80ff10b2",
-          "md5": "721836d414c0c554aa1034fb853c2160"
+          "size": 49863,
+          "sha512": "81c381faadfe51c2ef55c339424421185f92a69d90e1742f389e1c6c614c460335333b1d51e59342f485982c54e0ae4f1142ebe3eac81f24ff03e5fb8bcaf1cd",
+          "sha256": "15fda46107e47dd0bc36d7f77b9f20d145d66d319668ccb036e06447edc82a2b",
+          "sha1": "ff688c051134a34c0f670dd8a7e4a267a8238927",
+          "md5": "81a271014b57cc9ae9b944262b1763b9"
         }
       ]
     },
@@ -68,11 +68,11 @@
         {
           "name": "rosetta-neoforge-0.1.1+1.21.11-sources.jar",
           "url": "rosetta-neoforge-0.1.1+1.21.11-sources.jar",
-          "size": 6076110,
-          "sha512": "9d4a3a5c0109f8f93b3c00d80299557c47f4d9febfdb82e261b18d4bca8afb5579404caa750c67240e2e37e2ef2b0fda7aa1ef700b278738895a3c99eb1f27f2",
-          "sha256": "e8b16bc224e72de9f0f32b6331913b7849a34783b9c82e7dcfbc46ff9e00bcf3",
-          "sha1": "acf5e6646bd3e5c7f43331a94af2d7d94ddfc4d8",
-          "md5": "29232f97d1d3006eff795da11683f16b"
+          "size": 25138,
+          "sha512": "7ad8992c9b5b1cb3751679de04aa62590b735fbd8a00807b0c92a3e22365992283ff1f54acacb46d7089086e3e5fcc186e08e2351be8520660b8ddb641273aac",
+          "sha256": "dd2814daa6af23172bb42d0e8d3dd5568bc3826d77a990cd55dc209120a5c239",
+          "sha1": "d54206bea98dd342f1ecee78aab8cc24d3caf63d",
+          "md5": "38266adec0a03d7b8e8f1fbe0ec375e2"
         }
       ]
     }
