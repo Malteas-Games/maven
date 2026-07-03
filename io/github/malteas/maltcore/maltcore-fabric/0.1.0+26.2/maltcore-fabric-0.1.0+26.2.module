@@ -1,0 +1,96 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "io.github.malteas.maltcore",
+    "module": "maltcore-fabric",
+    "version": "0.1.0+26.2",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.4.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 25,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "maltcore-fabric-0.1.0+26.2.jar",
+          "url": "maltcore-fabric-0.1.0+26.2.jar",
+          "size": 4803,
+          "sha512": "05dbf4b969776ee4e3821dea14c789ef3955b17ba726839a4bd5c12076894335df23df5e035e2e08c283b3da9f8e07675242fc9d810c34f37ed583f4ae822285",
+          "sha256": "851defa7c5912ef8bbe4f9368c28f6a707b5be21db8813a885bb2c704fe99a70",
+          "sha1": "56dff223ea8cce3478661d8a7f9b6cba53cc36a5",
+          "md5": "7ebb76c37b0f01320a57c9b5db863b7c"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 25,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "net.fabricmc.fabric-api",
+          "module": "fabric-api",
+          "version": {
+            "requires": "0.152.2+26.2"
+          }
+        },
+        {
+          "group": "net.fabricmc",
+          "module": "fabric-loader",
+          "version": {
+            "requires": "0.18.6"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "maltcore-fabric-0.1.0+26.2.jar",
+          "url": "maltcore-fabric-0.1.0+26.2.jar",
+          "size": 4803,
+          "sha512": "05dbf4b969776ee4e3821dea14c789ef3955b17ba726839a4bd5c12076894335df23df5e035e2e08c283b3da9f8e07675242fc9d810c34f37ed583f4ae822285",
+          "sha256": "851defa7c5912ef8bbe4f9368c28f6a707b5be21db8813a885bb2c704fe99a70",
+          "sha1": "56dff223ea8cce3478661d8a7f9b6cba53cc36a5",
+          "md5": "7ebb76c37b0f01320a57c9b5db863b7c"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "maltcore-fabric-0.1.0+26.2-sources.jar",
+          "url": "maltcore-fabric-0.1.0+26.2-sources.jar",
+          "size": 3878,
+          "sha512": "d99f71b26419d84c7d085b3a104703e59795d7408781199b92b6851380dab2532c18babac8f4a61b8f6dc56272685bf740dcedff51cd20e0bc3bac7ede608686",
+          "sha256": "896bc52b25b8463077162745541a939f60b23ece4edc9f656fea5579acbc791c",
+          "sha1": "d3decfd6468be75b4add59c9bd378ba945ba44cb",
+          "md5": "e4cfb799917be4548ee58a305a91ebf9"
+        }
+      ]
+    }
+  ]
+}
