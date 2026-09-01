@@ -1,0 +1,80 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "io.github.malteas.maltcore",
+    "module": "maltcore-neoforge",
+    "version": "0.2.0+1.21.2",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.4.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "maltcore-neoforge-0.2.0+1.21.2.jar",
+          "url": "maltcore-neoforge-0.2.0+1.21.2.jar",
+          "size": 41411,
+          "sha512": "c1e6392d69988a23e1a6dd0e9a4afe15721fc0cc7c654ef2e6be65aaee28767f8ada61d863967426c93d1dca1b284b7a9f8a3ee8332440964335a13db1d90706",
+          "sha256": "6a103071839f07d3d340b2ce4dbca3256be7e7734d1ae67481b26066903c1c36",
+          "sha1": "02f7bb2297fc6601de8d3590081b2dc0cea99c50",
+          "md5": "3ee42457376b50d959cd558da4c2907a"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "maltcore-neoforge-0.2.0+1.21.2.jar",
+          "url": "maltcore-neoforge-0.2.0+1.21.2.jar",
+          "size": 41411,
+          "sha512": "c1e6392d69988a23e1a6dd0e9a4afe15721fc0cc7c654ef2e6be65aaee28767f8ada61d863967426c93d1dca1b284b7a9f8a3ee8332440964335a13db1d90706",
+          "sha256": "6a103071839f07d3d340b2ce4dbca3256be7e7734d1ae67481b26066903c1c36",
+          "sha1": "02f7bb2297fc6601de8d3590081b2dc0cea99c50",
+          "md5": "3ee42457376b50d959cd558da4c2907a"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "maltcore-neoforge-0.2.0+1.21.2-sources.jar",
+          "url": "maltcore-neoforge-0.2.0+1.21.2-sources.jar",
+          "size": 31457,
+          "sha512": "e29af6e48e4d97851b782991503fb9e084fd22997171132bc0054e976f5ac69797ae9a5914630108505ccf6bf8e58acd319abdbfb24589a53d987a49217caba8",
+          "sha256": "1234ca4177777bcd50ecf3d0c2a99aaba22896224d803bfb508b228fe0adac2f",
+          "sha1": "4968ffcde30290ed5f055298d76cf14caae7d1c4",
+          "md5": "439023945cece0053531d376818badcd"
+        }
+      ]
+    }
+  ]
+}
