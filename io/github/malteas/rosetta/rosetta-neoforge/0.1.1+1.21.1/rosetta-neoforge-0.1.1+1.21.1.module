@@ -27,11 +27,11 @@
         {
           "name": "rosetta-neoforge-0.1.1+1.21.1.jar",
           "url": "rosetta-neoforge-0.1.1+1.21.1.jar",
-          "size": 44037,
-          "sha512": "1bba96c0dc0110869f65d3ac1af4c6ba21ad8117dfe4fdb65cb979477ba8326b6d7066b8534bfe4b8bace3a11cba1cbfd0d0c5d3559e921cd97e6747dd5259b4",
-          "sha256": "b722f56ea214c3036fd8063d60ea46fa06243bfbe0de39c94fede9aac547cfdb",
-          "sha1": "b428a7879e6379ba436086bd09f57aaa83445192",
-          "md5": "83098a034f1772263b4204ba93525ff8"
+          "size": 77837,
+          "sha512": "6c600a9712d74edcd6fd52f44c29ab75816da27693ab77998c2a1c7ff88c7b214ccfc9b2f0ecbb124b7aa4d0bee706a5a03c560cce742349d25322eccb9763df",
+          "sha256": "d8b53117819cbc40003fb6ac78f0c027f6f609d35e7a57c6933cd94d9010e43c",
+          "sha1": "79a4171a220faa1c738bad97b0367720fc747df1",
+          "md5": "ff5f2aa062f6899fb973ead6e00ddf29"
         }
       ]
     },
@@ -44,15 +44,24 @@
         "org.gradle.libraryelements": "jar",
         "org.gradle.usage": "java-runtime"
       },
+      "dependencies": [
+        {
+          "group": "io.github.malteas.maltcore",
+          "module": "maltcore-neoforge",
+          "version": {
+            "requires": "0.2.0+1.21.1"
+          }
+        }
+      ],
       "files": [
         {
           "name": "rosetta-neoforge-0.1.1+1.21.1.jar",
           "url": "rosetta-neoforge-0.1.1+1.21.1.jar",
-          "size": 44037,
-          "sha512": "1bba96c0dc0110869f65d3ac1af4c6ba21ad8117dfe4fdb65cb979477ba8326b6d7066b8534bfe4b8bace3a11cba1cbfd0d0c5d3559e921cd97e6747dd5259b4",
-          "sha256": "b722f56ea214c3036fd8063d60ea46fa06243bfbe0de39c94fede9aac547cfdb",
-          "sha1": "b428a7879e6379ba436086bd09f57aaa83445192",
-          "md5": "83098a034f1772263b4204ba93525ff8"
+          "size": 77837,
+          "sha512": "6c600a9712d74edcd6fd52f44c29ab75816da27693ab77998c2a1c7ff88c7b214ccfc9b2f0ecbb124b7aa4d0bee706a5a03c560cce742349d25322eccb9763df",
+          "sha256": "d8b53117819cbc40003fb6ac78f0c027f6f609d35e7a57c6933cd94d9010e43c",
+          "sha1": "79a4171a220faa1c738bad97b0367720fc747df1",
+          "md5": "ff5f2aa062f6899fb973ead6e00ddf29"
         }
       ]
     },
@@ -68,11 +77,11 @@
         {
           "name": "rosetta-neoforge-0.1.1+1.21.1-sources.jar",
           "url": "rosetta-neoforge-0.1.1+1.21.1-sources.jar",
-          "size": 25211,
-          "sha512": "7d3f4e99c631039d013fec66fdad103992b831aa430e120e254760c13de5242fd13b68502e59d5b2f285264df9176673e383a82244275786f9ace4826319ccad",
-          "sha256": "34c3320ea82ac7f2a66ffcb4cb6edc6506f332fcd16a68652a06abe4d5e35678",
-          "sha1": "df0bd061426e2d2309e9f046ff97f2748d2598fa",
-          "md5": "dd38ee1f22065af7bb99e53c159040b1"
+          "size": 22789,
+          "sha512": "59f0c5d082eb98d0f2c3a68b7fecc4404562512abc1a760af7a77008832c0aa884a0c20e518a2adfb17890ac6c969d72a6899907a9585f176be256cbd1e1c4fb",
+          "sha256": "8fb39474e432da66e1cf9b059a5acc51e426f3ad5f69e2f1112a769ea3899bc8",
+          "sha1": "397fd8b8e08d1eec7c11de4d37f2f509c7388560",
+          "md5": "1b97ddfe83737730324fa61c77759f4c"
         }
       ]
     }

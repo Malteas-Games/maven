@@ -27,11 +27,11 @@
         {
           "name": "rosetta-fabric-0.1.1+26.2.jar",
           "url": "rosetta-fabric-0.1.1+26.2.jar",
-          "size": 44513,
-          "sha512": "bf5e1e449101623093c6988767e39738f7b0d39fa73fc8f9e1685925cbb62494656028a317533caa5b85cf815a5e4d4588af93334f73270382022ca1c28d8c79",
-          "sha256": "cfd9fdf0c5e02686c3a19b985c105159059ed77eae06e6b15b4ac367f849008a",
-          "sha1": "c1096797b95015ceb81e159765c93c7dfd833860",
-          "md5": "6eb7cb741fd5c2798d03d0626ceae962"
+          "size": 79346,
+          "sha512": "b6c2763d59cffff186a0018db609904bddeb79dcc303850296f6ade8e6f802fa76e589823102179cb0f932f94b4b2327e2c013cef21552e85b7a2edebc09d049",
+          "sha256": "21390a079a229081fda15cca8a6d32e212ea33a47807ad6bde1a026e63751c27",
+          "sha1": "12af48e48a852162a3596f4e8700d7b4babd538d",
+          "md5": "1bc9abbb1649eb31aa8b3b02c0a927a4"
         }
       ]
     },
@@ -53,6 +53,13 @@
           }
         },
         {
+          "group": "io.github.malteas.maltcore",
+          "module": "maltcore-fabric",
+          "version": {
+            "requires": "0.2.0+26.2"
+          }
+        },
+        {
           "group": "net.fabricmc",
           "module": "fabric-loader",
           "version": {
@@ -64,11 +71,11 @@
         {
           "name": "rosetta-fabric-0.1.1+26.2.jar",
           "url": "rosetta-fabric-0.1.1+26.2.jar",
-          "size": 44513,
-          "sha512": "bf5e1e449101623093c6988767e39738f7b0d39fa73fc8f9e1685925cbb62494656028a317533caa5b85cf815a5e4d4588af93334f73270382022ca1c28d8c79",
-          "sha256": "cfd9fdf0c5e02686c3a19b985c105159059ed77eae06e6b15b4ac367f849008a",
-          "sha1": "c1096797b95015ceb81e159765c93c7dfd833860",
-          "md5": "6eb7cb741fd5c2798d03d0626ceae962"
+          "size": 79346,
+          "sha512": "b6c2763d59cffff186a0018db609904bddeb79dcc303850296f6ade8e6f802fa76e589823102179cb0f932f94b4b2327e2c013cef21552e85b7a2edebc09d049",
+          "sha256": "21390a079a229081fda15cca8a6d32e212ea33a47807ad6bde1a026e63751c27",
+          "sha1": "12af48e48a852162a3596f4e8700d7b4babd538d",
+          "md5": "1bc9abbb1649eb31aa8b3b02c0a927a4"
         }
       ]
     },
@@ -84,11 +91,11 @@
         {
           "name": "rosetta-fabric-0.1.1+26.2-sources.jar",
           "url": "rosetta-fabric-0.1.1+26.2-sources.jar",
-          "size": 25232,
-          "sha512": "5b01ae2f7bf8c9f5297fc409e749b4b399fa1937ae4550816db9e0f340ae2d23312d338b32b7dd30e4d237c2e7f8dd7d1cec777f650395b4dd9d4591609762d4",
-          "sha256": "bab566a74ff8137d064b2afcb3c81fde429ba65bfa2ea8c0f4ee2c97e6d9c6c7",
-          "sha1": "4cbca52fda1bf25b10a37cc8372d016f2677f184",
-          "md5": "3a63b906cab8d91dc1b9eb7ff9bfb06e"
+          "size": 22845,
+          "sha512": "ca385bb93e12c7e94592a907459739bbc75c217b1d9cc1819ac61f8440c50bbbdd19aa0960596da1a4b47ab0eb9a490efd638a1bd4cc21dd9ccab18d370d5126",
+          "sha256": "ed47e8e0bcf5e6499f1518f9d01a343932c24b5cdf8577619a2395f247687fe9",
+          "sha1": "c92ccaeb63fa72546f1def2106ad84bc9b924522",
+          "md5": "2c15745224c91df391d099855b10a3d6"
         }
       ]
     }

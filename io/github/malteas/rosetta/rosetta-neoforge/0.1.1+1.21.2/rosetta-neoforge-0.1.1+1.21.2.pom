@@ -10,4 +10,12 @@
   <groupId>io.github.malteas.rosetta</groupId>
   <artifactId>rosetta-neoforge</artifactId>
   <version>0.1.1+1.21.2</version>
+  <dependencies>
+    <dependency>
+      <groupId>io.github.malteas.maltcore</groupId>
+      <artifactId>maltcore-neoforge</artifactId>
+      <version>0.2.0+1.21.2</version>
+      <scope>runtime</scope>
+    </dependency>
+  </dependencies>
 </project>
